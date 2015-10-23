@@ -1,0 +1,44 @@
+﻿<Window x:Class="NicoTrola.Start"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Height="100" Width="450"
+        Title="Cargando..." ResizeMode="NoResize" ShowInTaskbar="False" AllowsTransparency="True"
+        Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Transparent" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="28"></RowDefinition>
+            <RowDefinition Height="45"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock FontFamily="Aharoni" Grid.Row="0" FontSize="24" HorizontalAlignment="Center">Cargando...</TextBlock>
+        <Border Margin="0,2,0,0" Height="40" Width="400" Grid.Row="1" CornerRadius="5" Grid.Column="1"
+                            BorderThickness="3" BorderBrush="Red">
+        <Canvas  ClipToBounds="True" Name="canMain" Background="Red">
+            <TextBlock  Name="tbmarquee"  FontSize="24" FontFamily="Aharoni" TextAlignment="Center"
+                        Background="AliceBlue" Width="400" Height="40"></TextBlock>
+        </Canvas>
+        </Border>
+        <!--<Border Height="40" Width="400" CornerRadius="5" Grid.Column="1"
+                            Margin="0,0,5,0" BorderThickness="2" BorderBrush="Red">
+            <StatusBar Name="sbar"
+                        VerticalAlignment="Bottom" Background="Transparent" >
+                <StatusBarItem>
+                    <ProgressBar Width="400" Height="40" Background="#FFF03937" 
+                                 Name="progressBar1" Foreground="WhiteSmoke">
+                        <ProgressBar.Triggers>
+                            <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                                <BeginStoryboard>
+                                    <Storyboard Name="storyBoard">
+                                        <DoubleAnimation Name="dAmElementBs" SpeedRatio="0.2"
+                                                         Storyboard.TargetName="progressBar1"
+                                                         Storyboard.TargetProperty="Value"
+                                                         From="0" To="400" Duration="{Binding DurationmElement}"
+                                                         Completed="dAmElementBs_Completed" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ProgressBar.Triggers>
+                    </ProgressBar>
+                </StatusBarItem>
+            </StatusBar>
+        </Border>-->   
+    </Grid>
+</Window>

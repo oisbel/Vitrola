@@ -1,0 +1,239 @@
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.exe.config
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.exe
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.pdb
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\bin\Debug\Interop.WMPLib.dll
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddGenre.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddPublicity.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\BigScreen.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Configuration.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Menu.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Configuration.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Menu.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\App.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MainWindow.baml
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.exe
+C:\Users\simpson\Documents\Visual Studio 2010\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+F:\vitrola\Proyecto\NicoTrola\bin\Debug\NicoTrola.exe.config
+F:\vitrola\Proyecto\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+F:\vitrola\Proyecto\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\vitrola\Proyecto\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+F:\vitrola\Proyecto\NicoTrola\obj\x86\Debug\NicoTrola.exe
+F:\vitrola\Proyecto\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+D:\Projects\NicoTrola\bin\Debug\NicoTrola.exe.config
+D:\Projects\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+D:\Projects\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.exe
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+D:\Projects\NicoTrola\bin\Debug\NicoTrola.exe
+D:\Projects\NicoTrola\bin\Debug\NicoTrola.pdb
+D:\Projects\NicoTrola\bin\Debug\Interop.WMPLib.dll
+D:\Projects\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.csprojResolveAssemblyReference.cache
+D:\Projects\NicoTrola\obj\x86\Debug\AddGenre.baml
+D:\Projects\NicoTrola\obj\x86\Debug\AddPublicity.baml
+D:\Projects\NicoTrola\obj\x86\Debug\BigScreen.baml
+D:\Projects\NicoTrola\obj\x86\Debug\Configuration.baml
+D:\Projects\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+D:\Projects\NicoTrola\obj\x86\Debug\Menu.baml
+D:\Projects\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\Configuration.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\Menu.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\App.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+D:\Projects\NicoTrola\obj\x86\Debug\MainWindow.baml
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+D:\Projects\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+D:\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.exe.config
+D:\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.exe
+D:\Projects\NicoTrola\NicoTrola\bin\Debug\NicoTrola.pdb
+D:\Projects\NicoTrola\NicoTrola\bin\Debug\Interop.WMPLib.dll
+D:\Projects\NicoTrola\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddGenre.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddPublicity.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\BigScreen.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Configuration.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Menu.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Messages.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Configuration.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Menu.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\Messages.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\App.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\MainWindow.baml
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.exe
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+L:\vitrola\proyecto\NicoTrola\bin\Debug\NicoTrola.exe.config
+L:\vitrola\proyecto\NicoTrola\bin\Debug\NicoTrola.exe
+L:\vitrola\proyecto\NicoTrola\bin\Debug\NicoTrola.pdb
+L:\vitrola\proyecto\NicoTrola\bin\Debug\Interop.WMPLib.dll
+L:\vitrola\proyecto\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\AddGenre.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\AddPublicity.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\BigScreen.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Configuration.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Menu.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Messages.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Configuration.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Menu.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\Messages.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\App.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\MainWindow.baml
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola.exe
+L:\vitrola\proyecto\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+D:\Projects\NicoTrola\NicoTrola\obj\x86\Debug\NicoTrola.csprojResolveAssemblyReference.cache
+F:\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.exe.config
+F:\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.exe
+F:\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.pdb
+F:\Projects\vitrola\NicoTrola\bin\Debug\Interop.WMPLib.dll
+F:\Projects\vitrola\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\AddGenre.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\BigScreen.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Configuration.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Menu.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Messages.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Configuration.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Menu.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\Messages.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\App.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\MainWindow.baml
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.exe
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+F:\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csprojResolveAssemblyReference.cache
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\bin\Debug\NicoTrola.exe.config
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\bin\Debug\NicoTrola.exe
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\bin\Debug\NicoTrola.pdb
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\bin\Debug\Interop.WMPLib.dll
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\AddGenre.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\BigScreen.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Configuration.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Menu.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Messages.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Configuration.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Menu.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\Messages.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\App.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\MainWindow.baml
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.exe
+D:\Proyectos(Oisbel Simpson)\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.pdb
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.exe.config
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.exe
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\bin\Debug\NicoTrola.pdb
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\bin\Debug\Interop.WMPLib.dll
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csprojResolveAssemblyReference.cache
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.ResolveComReference.cache
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\AddGenre.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\BigScreen.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Configuration.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Menu.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Messages.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\AddGenre.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\AddPublicity.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\BigScreen.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Configuration.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\MainWindow.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\MarqueeLabel.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Menu.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\Messages.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\App.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.cache
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola_MarkupCompile.lref
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\MainWindow.baml
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.g.resources
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.Properties.Resources.resources
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.csproj.GenerateResource.Cache
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.exe
+C:\Users\oisbel.HGY\Documents\Visual Studio 2010\Projects\vitrola\NicoTrola\obj\x86\Debug\NicoTrola.pdb

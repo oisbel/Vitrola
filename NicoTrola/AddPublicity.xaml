@@ -1,0 +1,57 @@
+﻿<Window x:Class="NicoTrola.AddPublicity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AGREGAR PUBLICIDAD" Width="500" Background="Brown" Height="250"
+        KeyUp="Window_KeyUp" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="ToolWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="35"/>
+        </Grid.RowDefinitions>
+        <Label FontFamily="Candara" FontSize="16">Publicidad:</Label>
+        <TextBox Name="publicity" Grid.Column="1" FontFamily="Candara" 
+                 FontSize="16" Width="250"></TextBox>
+        <Label Grid.Row="1" FontFamily="Candara" FontSize="16">Publicidad entre Canciones</Label>
+        <Border Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left"
+                BorderThickness="4" CornerRadius="5" Width="30" Height="30" Name="border">
+            <Button Opacity="0.5" Background ="AliceBlue"  Click="AddPublicity_Click"                            
+                    FontFamily="Arial" FontSize="16" FontWeight="ExtraBold" Foreground="Black" 
+                               HorizontalAlignment="Left">...                
+            </Button>
+        </Border>
+        <CheckBox Grid.Row="2" Grid.Column="1" IsChecked="False" Margin="30,0,0,0" Name="publicitiesCB"
+                  VerticalAlignment="Center" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked">
+            Desactivar pubicidad entre canciones</CheckBox>
+        <TextBlock Grid.Row="1" Grid.Column="1" Margin="30,0,0,0"
+               FontFamily="Candara" FontSize="16" Name="publicityTB"></TextBlock>
+        <ListBox Grid.Row="3" Grid.Column="0" Background="BurlyWood" Width="450"
+                 Grid.ColumnSpan="2" Margin="10,0,10,0" Name="listPublicity" ></ListBox>
+        <Button Grid.Column="0" Grid.Row="4" Opacity="0.5" Background ="AliceBlue" 
+                Name="accept"  Click="accept_Click"  Margin="5,5,5,5" Width="100" HorizontalAlignment="Left">
+            <DockPanel Width="80">
+                <DockPanel.LayoutTransform>
+                    <SkewTransform AngleX="20"></SkewTransform>
+                </DockPanel.LayoutTransform>
+                <TextBlock FontFamily="Arial" FontSize="16" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Center" >
+              Aceptar</TextBlock>
+            </DockPanel>
+        </Button>
+        <Button Grid.Column="1" Grid.Row="4"  Opacity="0.5" Background ="AliceBlue"
+                Name="cancel"  Click="cancel_Click"  Margin="5,5,5,5" Width="100" HorizontalAlignment="Left">
+            <DockPanel Width="80">
+                <DockPanel.LayoutTransform>
+                    <SkewTransform AngleX="20"></SkewTransform>
+                </DockPanel.LayoutTransform>
+                <TextBlock FontFamily="Arial" FontSize="16" FontWeight="Bold" Foreground="Black" Width="90">
+              Cancelar</TextBlock>
+            </DockPanel>
+        </Button>
+        </Grid>
+</Window>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicoTrola", "NicoTrola\NicoTrola.csproj", "{4A8E999E-E487-417D-8F19-B75E2B4FD660}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EvaPlay", "EvaPlay\EvaPlay.vdproj", "{E46F46B2-4569-4375-918A-EBFEE3B61AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8E999E-E487-417D-8F19-B75E2B4FD660}.Debug|x86.ActiveCfg = Debug|x86
+		{4A8E999E-E487-417D-8F19-B75E2B4FD660}.Debug|x86.Build.0 = Debug|x86
+		{4A8E999E-E487-417D-8F19-B75E2B4FD660}.Release|x86.ActiveCfg = Release|x86
+		{4A8E999E-E487-417D-8F19-B75E2B4FD660}.Release|x86.Build.0 = Release|x86
+		{E46F46B2-4569-4375-918A-EBFEE3B61AC3}.Debug|x86.ActiveCfg = Debug
+		{E46F46B2-4569-4375-918A-EBFEE3B61AC3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

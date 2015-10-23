@@ -1,0 +1,67 @@
+﻿<FileCollection>
+Configuration\collection.dat
+</FileCollection>
+<Filters>
+wmv
+vob
+mpeg
+dat
+mp4
+mpg
+avi
+flv
+wmv
+avi
+mpg
+mpeg
+dat
+mp4
+vob
+</Filters>
+<ValueTrack>
+1
+</ValueTrack>
+<Volumen>
+50
+</Volumen>
+<DirImage>
+Configuration\artist.jpg
+</DirImage>
+<ScreenSaver>
+Configuration\sc.mpg
+</ScreenSaver>
+<DirBackGround>
+\Images\
+</DirBackGround>
+<ViewMiniature>
+True
+</ViewMiniature>
+<ViewVideo>
+True
+</ViewVideo>
+<ViewPublicities>
+True
+</ViewPublicities>
+<Publicity>
+♪♪ Vitrolas Modernas ♫♫
+</Publicity>
+<Publicities>
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Antonio Guiteras Holmes.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Antonio Maceo Grajales.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Carlos Manuel de Céspedes.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Eduardo René Chibás.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Histoia Imprimir nuevo.docx
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Ignacio Agramonte Loynaz.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Jesús Menéndez Larrondo.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\José Julián Marti.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Julio Antonio Mella.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Lázaro Peña.doc
+C:\Users\oisbel.HGY\Desktop\BARBY IMPRIMIR\Máximo Gómez.doc
+</Publicities>
+<FontsizeLListBox>
+21
+</FontsizeLListBox>
+<Delay>
+0
+1
+</Delay>

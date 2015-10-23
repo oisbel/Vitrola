@@ -1,0 +1,11 @@
+﻿<Window x:Class="NicoTrola.Messages" BorderThickness="0" BorderBrush="Transparent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="150" Width="300" ResizeMode="CanResize" 
+        Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Red" AllowsTransparency="True" IsTabStop="False">
+    <Grid>
+        <TextBlock Name="messageTB" FontSize="30" HorizontalAlignment="Center" Foreground="White" 
+                   VerticalAlignment="Center" FontFamily="Tahoma">
+        </TextBlock>
+    </Grid>
+</Window>
